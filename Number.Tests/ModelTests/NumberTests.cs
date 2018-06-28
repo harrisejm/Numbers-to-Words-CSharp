@@ -9,10 +9,22 @@ namespace Number.Tests
   public class NumberOutput
   {
     [TestMethod]
-    public void NumberTest()
+    public void NumberTestSingle()
     {
-      NumberConverter numberCov = new NumberConverter(1);
-      Assert.AreEqual(1, numberCov.test());
+      NumberConverter numberCov = new NumberConverter("1");
+      Assert.AreEqual("one", numberCov.test());
+    }
+    [TestMethod]
+    public void NumberTestTens()
+    {
+      NumberConverter numberCov = new NumberConverter("10");
+      Assert.AreEqual("ten", numberCov.test());
+    }
+    [TestMethod]
+    public void NumberTest100s()
+    {
+      NumberConverter numberCov = new NumberConverter("99");
+      Assert.AreEqual("nintynine", numberCov.test());
     }
   }
 }
