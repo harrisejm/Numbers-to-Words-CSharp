@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Number.Tests.deps.json
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Number.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Number.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Number.Solution/Number.Tests/obj/Debug/netcoreapp1.1/Number.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Number.Tests.dll
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Number.Tests.pdb
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Number.dll
+/Users/Guest/Desktop/Number.Solution/Number.Tests/bin/Debug/netcoreapp1.1/Number.pdb
+/Users/Guest/Desktop/Number.Solution/Number.Tests/obj/Debug/netcoreapp1.1/Number.Tests.dll
+/Users/Guest/Desktop/Number.Solution/Number.Tests/obj/Debug/netcoreapp1.1/Number.Tests.pdb

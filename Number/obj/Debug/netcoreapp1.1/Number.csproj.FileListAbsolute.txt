@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/Number.Solution/Number/bin/Debug/netcoreapp1.1/Number.deps.json
+/Users/Guest/Desktop/Number.Solution/Number/obj/Debug/netcoreapp1.1/Number.AssemblyInfo.cs
+/Users/Guest/Desktop/Number.Solution/Number/bin/Debug/netcoreapp1.1/Number.dll
+/Users/Guest/Desktop/Number.Solution/Number/bin/Debug/netcoreapp1.1/Number.pdb
+/Users/Guest/Desktop/Number.Solution/Number/obj/Debug/netcoreapp1.1/Number.dll
+/Users/Guest/Desktop/Number.Solution/Number/obj/Debug/netcoreapp1.1/Number.pdb
